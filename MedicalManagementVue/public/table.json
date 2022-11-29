@@ -1,0 +1,104 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "张三",
+            "idcard": "123",
+            "educationBk": "广东省东莞市长安镇",
+            "jobTitle": "成功",
+            "section": "2019-11-1",
+            "phone": "https://lin-xin.gitee.io/images/post/wms.png",
+            "address": "广东省广州市白云区",
+            "createTime": "123"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "idcard": "123",
+            "educationBk": "广东省东莞市长安镇",
+            "jobTitle": "成功",
+            "section": "2019-11-1",
+            "phone": "https://lin-xin.gitee.io/images/post/wms.png",
+            "address": "广东省广州市白云区",
+            "createTime": "123"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "idcard": "123",
+            "educationBk": "广东省东莞市长安镇",
+            "jobTitle": "成功",
+            "section": "2019-11-1",
+            "phone": "https://lin-xin.gitee.io/images/post/wms.png",
+            "address": "广东省广州市白云区",
+            "createTime": "123"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "idcard": "123",
+            "educationBk": "广东省东莞市长安镇",
+            "jobTitle": "成功",
+            "section": "2019-11-1",
+            "phone": "https://lin-xin.gitee.io/images/post/wms.png",
+            "address": "广东省广州市白云区",
+            "createTime": "123"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "idcard": "123",
+            "educationBk": "广东省东莞市长安镇",
+            "jobTitle": "成功",
+            "section": "2019-11-1",
+            "phone": "https://lin-xin.gitee.io/images/post/wms.png",
+            "address": "广东省广州市白云区",
+            "createTime": "123"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "idcard": "123",
+            "educationBk": "广东省东莞市长安镇",
+            "jobTitle": "成功",
+            "section": "2019-11-1",
+            "phone": "https://lin-xin.gitee.io/images/post/wms.png",
+            "address": "广东省广州市白云区",
+            "createTime": "123"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "idcard": "123",
+            "educationBk": "广东省东莞市长安镇",
+            "jobTitle": "成功",
+            "section": "2019-11-1",
+            "phone": "https://lin-xin.gitee.io/images/post/wms.png",
+            "address": "广东省广州市白云区",
+            "createTime": "123"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "idcard": "123",
+            "educationBk": "广东省东莞市长安镇",
+            "jobTitle": "成功",
+            "section": "2019-11-1",
+            "phone": "https://lin-xin.gitee.io/images/post/wms.png",
+            "address": "广东省广州市白云区",
+            "createTime": "123"
+        },
+        {
+            "id": 1,
+            "name": "张三",
+            "idcard": "123",
+            "educationBk": "广东省东莞市长安镇",
+            "jobTitle": "成功",
+            "section": "2019-11-1",
+            "phone": "https://lin-xin.gitee.io/images/post/wms.png",
+            "address": "广东省广州市白云区",
+            "createTime": "123"
+        }
+    ],
+    "pageTotal": 9
+}

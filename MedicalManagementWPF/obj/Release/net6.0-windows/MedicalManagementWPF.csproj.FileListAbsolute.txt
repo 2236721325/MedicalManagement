@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\医疗管理系统\MedicalManagementWPF\obj\Release\net6.0-windows\MedicalManagementWPF.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\医疗管理系统\MedicalManagementWPF\obj\Release\net6.0-windows\Dictionarys\TextBoxDictionary.baml
+C:\Users\Administrator\Desktop\医疗管理系统\MedicalManagementWPF\obj\Release\net6.0-windows\Temps\Window1.g.cs
+C:\Users\Administrator\Desktop\医疗管理系统\MedicalManagementWPF\obj\Release\net6.0-windows\Views\LoginWindow.g.cs
+C:\Users\Administrator\Desktop\医疗管理系统\MedicalManagementWPF\obj\Release\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Administrator\Desktop\医疗管理系统\MedicalManagementWPF\obj\Release\net6.0-windows\App.g.cs
+C:\Users\Administrator\Desktop\医疗管理系统\MedicalManagementWPF\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\医疗管理系统\MedicalManagementWPF\obj\Release\net6.0-windows\MedicalManagementWPF_MarkupCompile.cache
+C:\Users\Administrator\Desktop\医疗管理系统\MedicalManagementWPF\obj\Release\net6.0-windows\MedicalManagementWPF_MarkupCompile.lref

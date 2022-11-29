@@ -1,0 +1,87 @@
+﻿<Window
+    x:Class="MedicalManagementWPF.Views.LoginWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:MedicalManagementWPF.ViewModels"
+    xmlns:prism="http://prismlibrary.com/"
+    Title="{Binding Title}"
+    Width="760"
+    Height="400"
+    prism:ViewModelLocator.AutoWireViewModel="True"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="SingleBorderWindow">
+    <Window.DataContext>
+        <local:MainWindowViewModel />
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Border>
+            <Border.Effect>
+                <DropShadowEffect
+                    BlurRadius="5"
+                    Opacity="0.8"
+                    ShadowDepth="0"
+                    Color="Black" />
+            </Border.Effect>
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                    <GradientStop Offset="0" Color="#83ABE9" />
+                    <GradientStop Offset="0.9" Color="#C8B9D0" />
+                    <GradientStop Offset="1" Color="#4E6A9C" />
+                </LinearGradientBrush>
+            </Border.Background>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock
+                    HorizontalAlignment="Center"
+                    FontSize="20"
+                    Foreground="White"
+                    Text="Welcome" />
+                <TextBlock
+                    Margin="0,10,0,0"
+                    HorizontalAlignment="Center"
+                    FontSize="24"
+                    Foreground="White"
+                    Text="医疗管理系统" />
+            </StackPanel>
+        </Border>
+        <Grid Grid.Column="1" Background="#DCDCDC">
+            <Grid VerticalAlignment="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <TextBox
+                    Grid.Row="0"
+                    Width="270"
+                    Height="35"
+                    Margin="20"
+                    Background="#DCDCDC"
+                    Style="{StaticResource InputTextBox}"
+                    Tag="&#xf007;账号："
+                    Text="{Binding UserLoginDto.Account}" />
+                <TextBox
+                    Grid.Row="1"
+                    Width="270"
+                    Height="35"
+                    Margin="20"
+                    Background="#DCDCDC"
+                    Style="{StaticResource InputTextBox}"
+                    Tag="&#xf023;密码："
+                    Text="{Binding UserLoginDto.Password}" />
+                <Button
+                    Grid.Row="2"
+                    Width="255"
+                    Height="40"
+                    Margin="20"
+                    Content="登录"
+                    Style="{StaticResource LoginButtonStyle}" />
+            </Grid>
+        </Grid>
+
+
+    </Grid>
+</Window>

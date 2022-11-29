@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\医疗管理系统\MedicalManagement\MedicalManagement.WebAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-10-08T06:00:49.7762883Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

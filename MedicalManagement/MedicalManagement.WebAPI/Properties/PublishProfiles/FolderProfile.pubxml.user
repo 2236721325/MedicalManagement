@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Coding\PracticeProject\MedicalManagement\MedicalManagement.WebAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-10-08T03:07:45.8271521Z;True|2022-10-08T10:48:42.5232592+08:00;True|2022-10-08T10:47:00.8724750+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

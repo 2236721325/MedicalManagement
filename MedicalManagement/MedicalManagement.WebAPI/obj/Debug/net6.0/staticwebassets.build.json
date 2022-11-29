@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DDwHahIjpIxAWnxDl1ta2GragiLaDANoxDpdRvw75V4=",
+  "Source": "MedicalManagement.WebAPI",
+  "BasePath": "_content/MedicalManagement.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

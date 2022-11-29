@@ -1,0 +1,14 @@
+﻿<Window
+    x:Class="MedicalManagementWPF.Views.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:prism="http://prismlibrary.com/"
+    xmlns:viewmodels="clr-namespace:MedicalManagementWPF.ViewModels"
+    Title="{Binding Title}"
+    Width="525"
+    Height="350">
+    <Grid>
+        <ContentControl prism:RegionManager.RegionName="ContentRegion" />
+    </Grid>
+</Window>
